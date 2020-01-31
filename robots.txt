@@ -1,0 +1,7 @@
+user-agent: *
+disallow: /site_admin/
+disallow: /bentobox/
+
+disallow: /catering/$
+
+disallow: /happenings/$
